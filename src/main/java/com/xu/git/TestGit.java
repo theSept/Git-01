@@ -16,5 +16,6 @@ public class TestGit {
         System.out.println("hot-fox test");
         System.out.println("push test");
         System.out.println("pull test");
+        System.out.println("gitee push test");
     }
 }
